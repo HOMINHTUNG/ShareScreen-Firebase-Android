@@ -4,15 +4,18 @@ For Android, by [HOMINHTUNG](https://github.com/HOMINHTUNG)
 
 ## Description
 
-Stream video screen device with firebase, native player on Android.
+Stream video screen device with Firebase, native player on Android.
 
 Here I have two app to test:
 
 * ShareScreen: People share your screen device
+<img src="https://i.imgur.com/BwgEYvZ.png">
 * SeenScreen: People want to see the screen
 
 ### Android specifics
+
 * Uses ImageView, ImageReader, MediaProjection.
+* Server Firebase: Firebase Message, Database Firebase.
 * Tested on Android 5.0+
 
 ## Usage
@@ -96,5 +99,3 @@ You need to change something to use it:
 * public static String FB_KEY_API
 * public static String FB_TOKEN_ADMIN
 * public static String FB_TOKEN_DRIVER
-
-## Images
