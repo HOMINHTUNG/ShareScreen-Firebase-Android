@@ -10,18 +10,17 @@ Here I have two app to test:
 
 * ShareScreen: People share your screen device
 
-<img src="https://i.imgur.com/BwgEYvZ.png">
+<img src="https://i.imgur.com/BwgEYvZ.png" width="728px" height="1280px">
 
-<img src="https://i.imgur.com/e1OyL9b.png">
+<img src="https://i.imgur.com/e1OyL9b.png" width="728px" height="1280px">
 
 * SeenScreen: People want to see the screen
 
-<img src="https://i.imgur.com/Z1iNLhk.jpg">
+<img src="https://i.imgur.com/Z1iNLhk.jpg" width="728px" height="1280px">
 
-<img src="https://i.imgur.com/GK4WTDC.jpg">
+<img src="https://i.imgur.com/GK4WTDC.jpg" width="728px" height="1280px">
 
-<img src="https://i.imgur.com/Dc9PC6m.jpg">
-
+<img src="https://i.imgur.com/Dc9PC6m.jpg" width="728px" height="1280px">
 
 ### Android specifics
 
