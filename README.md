@@ -9,8 +9,19 @@ Stream video screen device with Firebase, native player on Android.
 Here I have two app to test:
 
 * ShareScreen: People share your screen device
+
 <img src="https://i.imgur.com/BwgEYvZ.png">
+
+<img src="https://i.imgur.com/e1OyL9b.png">
+
 * SeenScreen: People want to see the screen
+
+<img src="https://i.imgur.com/Z1iNLhk.jpg">
+
+<img src="https://i.imgur.com/GK4WTDC.jpg">
+
+<img src="https://i.imgur.com/Dc9PC6m.jpg">
+
 
 ### Android specifics
 
